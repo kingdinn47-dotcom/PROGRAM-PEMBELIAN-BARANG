@@ -1,9 +1,9 @@
 # 🛒 PROGRAM PEMBELIAN BARANG
 
 ## 👥 Kelompok 6
-- **Muhammad Gading Al Fauzan**
-- **Rifqi Reis Ramadhan**
-- **Zora Ghaziyah Wandri**
+- **Muhammad Gading Al Fauzan (G1A025107)**
+- **Rifqi Reis Ramadhan (G1A025003**
+- **Zora Ghaziyah Wandri(G1A025027)**
 
 ---
 
