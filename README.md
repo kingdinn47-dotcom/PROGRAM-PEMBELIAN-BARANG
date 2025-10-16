@@ -3,7 +3,7 @@
 ## 👥 Kelompok 6
 - **Muhammad Gading Al Fauzan  (G1A025107)**
 - **Rifqi Reis Ramadhan        (G1A025003)**
-- **Zora Ghaziyah Wandri       (G1A025027)**
+- **Zora Ghaziyah Wanie       (G1A025027)**
 
 ---
 
